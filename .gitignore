@@ -1,0 +1,33 @@
+# .gitignore
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.pyd
+
+# Environment
+.env
+*.env
+
+# Virtual Environment
+venv/
+myenv/
+
+# Byte-compiled
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Other
+.DS_Store
+.idea/
